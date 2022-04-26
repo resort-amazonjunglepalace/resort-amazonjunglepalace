@@ -196,7 +196,7 @@ export default function Experiencias(){
                  
                 
                 <div className="section-wrapper-item">
-                    <div className="section-wrapper-item-title">AJP Iara - 6 DIAS e 5 NOITES </div>     
+                    <div className="section-wrapper-item-title">AJP CAIPORA - 5 DIAS e 4 NOITES</div> 
                     <div className="section-wrapper-item-description">
                         <p>Iara, também conhecida como “mãe d’água”, Na lenda, diz-se que a Iara 
                         é uma sereia, sendo parte mulher e parte peixe. Ela mora dentro de um rio 
@@ -239,7 +239,7 @@ export default function Experiencias(){
                     </div>
                 </div>   
                 <div className="section-wrapper-item">
-                    <div className="section-wrapper-item-title">AJP CAIPORA - 5 DIAS e 4 NOITES</div>     
+                    <div className="section-wrapper-item-title">AJP Iara - 6 DIAS e 5 NOITES </div>
                     <div className="section-wrapper-item-description">
                         <p>A caipora é um ser que faz parte do folclore brasileiro e é conhecido 
                         como o protetor dos animais contra os caçadores. Conhecida como uma índia bem 

@@ -198,13 +198,12 @@ export default function Experiencias(){
                 <div className="section-wrapper-item">
                     <div className="section-wrapper-item-title">AJP CAIPORA - 5 DIAS e 4 NOITES</div> 
                     <div className="section-wrapper-item-description">
-                        <p>Iara, também conhecida como “mãe d’água”, Na lenda, diz-se que a Iara 
-                        é uma sereia, sendo parte mulher e parte peixe. Ela mora dentro de um rio 
-                        e possui grande beleza física, uma bela voz e muitas riquezas. Ela é a 
-                        protetora das aguas. Esse é o pacote mais completo e rico, a experiencia 
-                        desse pacote é surpreendente, escolhemos a Iara como tema do pacote para a 
-                        homenagear, pois o nosso  resort flutua sobre as águas onde a Iara é a mãe. Iara protege o nosso 
-                        resort, e em troca não permitimos que as aguas sejam poluídas.</p>
+                        <p>A caipora é um ser que faz parte do folclore brasileiro e é conhecido 
+                        como o protetor dos animais contra os caçadores. Conhecida como uma índia bem 
+                        pequena e que possui o corpo vermelho, reside na floresta e protege os 
+                        animais de serem caçados. Nesse pacote o hospede passara o dia fazendo um 
+                        tour pelos centros históricos e museus localizados no município de Manaus como 
+                        Museu do seringal, museu do indio, teatro amazonas, mercado municipal, entre outros.</p>
 
                         <ul className="section-wrapper-list">   
                             <span className="bold">Passeios inclusos: </span>  
@@ -241,12 +240,15 @@ export default function Experiencias(){
                 <div className="section-wrapper-item">
                     <div className="section-wrapper-item-title">AJP Iara - 6 DIAS e 5 NOITES </div>
                     <div className="section-wrapper-item-description">
-                        <p>A caipora é um ser que faz parte do folclore brasileiro e é conhecido 
-                        como o protetor dos animais contra os caçadores. Conhecida como uma índia bem 
-                        pequena e que possui o corpo vermelho, reside na floresta e protege os 
-                        animais de serem caçados. Nesse pacote o hospede passara o dia fazendo um 
-                        tour pelos centros históricos e museus localizados no município de Manaus como 
-                        Museu do seringal, museu do indio, teatro amazonas, mercado municipal, entre outros.</p>
+                        <p>Iara, também conhecida como “mãe d’água”, Na lenda, diz-se que a Iara 
+                        é uma sereia, sendo parte mulher e parte peixe. Ela mora dentro de um rio 
+                        e possui grande beleza física, uma bela voz e muitas riquezas. Ela é a 
+                        protetora das aguas. Esse é o pacote mais completo e rico, a experiencia 
+                        desse pacote é surpreendente, escolhemos a Iara como tema do pacote para a 
+                        homenagear, pois o nosso  resort flutua sobre as águas onde a Iara é a mãe. Iara protege o nosso 
+                        resort, e em troca não permitimos que as aguas sejam poluídas.</p>
+
+                        
 
                         <ul className="section-wrapper-list">   
                             <span className="bold">Passeios inclusos: </span>  

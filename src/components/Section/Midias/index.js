@@ -24,20 +24,21 @@ function Midias(){
                             <div className="section-wrapper-midias-item-box">
                                 <img src={process.env.PUBLIC_URL+'/assets/img/icon-rodape-email.png'} /> 
                                 <strong>E-Mail</strong>
-                                <span>comercial@amazonjunglepalace.com.br</span>
-                                <span>reservas01@amazonjunglepalace.com.br</span>
+                                <span>reservas@amazonjunglepalace.com.br</span>
                             </div>
                             <div className="section-wrapper-midias-item-box">
                                 <img src={process.env.PUBLIC_URL+'/assets/img/icon-rodape-telefone.png'} /> 
                                 <strong>Telefone</strong>
                                 {/* <span>+55 (92) 99285-5215</span>      */}
-                                {/* <span>+55 (92) 99244-8361</span>                            */}
-                                <span>+55 (92) 98405-7698</span>    
+                                {/* <span>+55 (92) 99244-8361</span>      */}
+                                <span>Atendimento das 08:00 às 18:00 Horas</span>
+                                <span>+55 (92) 3211-3973</span>    
                             </div>
                             <div className="section-wrapper-midias-item-box">
                                 <Link target="_blank" to={{pathname: `https://api.whatsapp.com/send?phone=5592984057698&text=Ol%C3%A1%2C%20seja%20bem%20vindo.%20Sou%20um%20assistente%20virtual%2C%20me%20pergunte%20algo!`}}>
                                 <img src={process.env.PUBLIC_URL+'/assets/img/icon-rodape-whatsapp.png'} /> 
                                 <strong>Whatsapp</strong>
+                                <span>Atendimento das 08:00 às 23:00 Horas</span>
                                 <span>+55 (92) 99244-8361</span>                               
                                 </Link>
                             </div>

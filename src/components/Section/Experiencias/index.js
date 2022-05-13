@@ -22,7 +22,7 @@ function Experiencia(){
                         </div>
                         <div className="section-wrapper-item">
                             <video className="elementor-video"  autoPlay={true} loop controls muted>
-                                <source src="https://amazonjunglepalace.com.br/site/wp-content/uploads/2020/02/inicio_hotel.mp4" type="video/mp4" />    
+                                <source src={process.env.PUBLIC_URL+'/assets/video/inicio_hotel.mp4'} type="video/mp4" />    
                             </video>
                         </div>
                     </div>        
